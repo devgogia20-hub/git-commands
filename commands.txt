@@ -3,3 +3,4 @@
 'git add .' to add all file to staging area.
 'git commit' to commit.
 'git config' to change the name or email.
+it is neccessary to commit after staging
