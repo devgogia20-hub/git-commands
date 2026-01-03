@@ -1,0 +1,5 @@
+'git init' to declare that it is a repository.
+'git status' to check the statur of the git.
+'git add .' to add all file to staging area.
+'git commit' to commit.
+'git config' to change the name or email.
