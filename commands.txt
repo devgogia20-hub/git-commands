@@ -4,3 +4,9 @@
 'git commit' to commit.
 'git config' to change the name or email.
 it is neccessary to commit after staging
+'git diff filename' to check the changes.
+if it is staged then,
+'git diff --staged filename'to check the changes.
+'git reset file name' to unstaged.
+'git checkout .'for reset all file.
+'git checkout filename' to reset specific file.
