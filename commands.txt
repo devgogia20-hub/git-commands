@@ -10,3 +10,6 @@ if it is staged then,
 'git reset file name' to unstaged.
 'git checkout .'for reset all file.
 'git checkout filename' to reset specific file.
+'git add -A'to stage all
+'git add .' to stage modified and previous
+'git add -u' to stave deleted and previous
