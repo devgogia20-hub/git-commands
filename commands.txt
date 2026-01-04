@@ -10,8 +10,11 @@ if it is staged then,
 'git reset file name' to unstaged.
 'git checkout .'for reset all file.
 'git checkout filename' to reset specific file.
-'git add -A'to stage all
-'git add .' to stage modified and previous
-'git add -u' to stave deleted and previous
-'git clone ssh code' to clone the repo
-'touch .gitignore' to create the gitignore file
+'git add -A'to stage all.
+'git add .' to stage modified and previous.
+'git add -u' to stave deleted and previous.
+'git clone ssh code' to clone the repo.
+'touch .gitignore' to create the gitignore file.
+'git branch branchname' to create branch.
+'git checkout branchname' to use the branch.
+'git merge branchname' to merge with previous branch.
