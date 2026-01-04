@@ -13,4 +13,5 @@ if it is staged then,
 'git add -A'to stage all
 'git add .' to stage modified and previous
 'git add -u' to stave deleted and previous
-'git clone sshcode' to clone the repo
+'git clone ssh code' to clone the repo
+'touch .gitignore' to create the gitignore file
